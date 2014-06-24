@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:title>CONSTITUÞIA CASEI UNIVERSALE A DREPTÃÞII</dc:title><meta:initial-creator>Ciprian D. Jauca</meta:initial-creator><meta:creation-date>1998-02-13T12:02:00</meta:creation-date><dc:creator>Cristina Ganea</dc:creator><dc:date>2002-01-04T13:40:00</dc:date><meta:editing-cycles>3</meta:editing-cycles><meta:editing-duration>PT1M</meta:editing-duration><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="78" meta:word-count="2387" meta:character-count="15409" meta:non-whitespace-character-count="13072"/><meta:generator>LibreOffice/4.2.3.3$Windows_x86 LibreOffice_project/882f8a0a489bc99a9e60c7905a60226254cb6ff0</meta:generator><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="int">17491</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="int">18681</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="int">6884</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="int">3041</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="int">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="int">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="int">17489</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="int">18680</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">FAX+/01pY3Jvc29mdCBYUFMgRG9jdW1lbnQgV3JpdGVyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATWljcm9zb2Z0IFhQUyBEb2N1bWVudCBXcml0ZXIAAAAWAAEAOgQAAAAAAAAEAAhSAAAEdAAAM1ROVwYATQBpAGMAcgBvAHMAbwBmAHQAIABYAFAAUwAgAEQAbwBjAHUAbQBlAG4AdAAgAFcAcgBpAHQAZQByAAAAAAAAAAEEAAbcAFgDA/8AAAEACQCaCzQIZAABAA8AWAICAAEAWAICAAAAQQA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAgAAAAEAAAD/////AAAAAAAAAAAAAAAAAAAAAERJTlUiABABTAMMAMrS9nIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAEAAFNNVEoAAAAAEAAAAU0AaQBjAHIAbwBzAG8AZgB0ACAAWABQAFMAIABEAG8AYwB1AG0AZQBuAHQAIABXAHIAaQB0AGUAcgAAAElucHV0QmluAEZPUk1TT1VSQ0UAUkVTRExMAFVuaXJlc0RMTABJbnRlcmxlYXZpbmcAT0ZGAEltYWdlVHlwZQBKUEVHTWVkAE9yaWVudGF0aW9uAFBPUlRSQUlUAENvbGxhdGUAT0ZGAFJlc29sdXRpb24AT3B0aW9uMQBQYXBlclNpemUATEVUVEVSAENvbG9yTW9kZQAyNGJwcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAATVhEVwEBAAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1129216</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1129216</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">disabled</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Microsoft XPS Document Writer</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">ja</config:config-item>
+     <config:config-item config:name="Country" config:type="string">JP</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string">!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕゛゜ゝゞ・ヽヾ！％），．：；？］｝｡｣､･ﾞﾟ￠</config:config-item>
+     <config:config-item config:name="EndLine" config:type="string">$([\{£¥‘“〈《「『【〔＄（［｛｢￡￥</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Mangal1" svg:font-family="Mangal"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Mangal" svg:font-family="Mangal" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="SimSun" svg:font-family="SimSun" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="ru" fo:country="RU" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="ru" fo:country="RU" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text">
+   <style:paragraph-properties fo:orphans="0" fo:widows="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman" style:font-family-asian="&apos;Times New Roman&apos;" style:font-family-generic-asian="roman" style:font-pitch-asian="variable" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Mangal" style:font-family-complex="Mangal" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" style:contextual-spacing="false" fo:line-height="120%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1" style:font-family-complex="Mangal"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Mangal1" style:font-family-complex="Mangal" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1" style:font-family-complex="Mangal"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="1.27cm" fo:margin-top="0.847cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="1.27cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="3.81cm" fo:margin-right="1.27cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="5.08cm" fo:margin-right="1.27cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Contents_20_5" style:display-name="Contents 5" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="6.35cm" fo:margin-right="1.27cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Contents_20_6" style:display-name="Contents 6" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Contents_20_7" style:display-name="Contents 7" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Contents_20_8" style:display-name="Contents 8" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Contents_20_9" style:display-name="Contents 9" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Index_20_1" style:display-name="Index 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="1.27cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-2.54cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Index_20_2" style:display-name="Index 2" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="1.27cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="-1.27cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="TOA_20_Heading" style:display-name="TOA Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="Caption_20__28_user_29_" style:display-name="Caption (user)" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard">
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="Default_20_Paragraph_20_Font" style:display-name="Default Paragraph Font" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="_5f_Equation_20_Caption" style:display-name="_Equation Caption" style:family="text"/>
+  <style:style style:name="Frame" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <style:style style:name="OLE" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.762cm" fo:text-indent="-0.762cm" fo:margin-left="0.762cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.016cm" fo:text-indent="-1.016cm" fo:margin-left="1.016cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-1.27cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.524cm" fo:text-indent="-1.524cm" fo:margin-left="1.524cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.778cm" fo:text-indent="-1.778cm" fo:margin-left="1.778cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.032cm" fo:text-indent="-2.032cm" fo:margin-left="2.032cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.286cm" fo:text-indent="-2.286cm" fo:margin-left="2.286cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-2.54cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.794cm" fo:text-indent="-2.794cm" fo:margin-left="2.794cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.048cm" fo:text-indent="-3.048cm" fo:margin-left="3.048cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="11pt" fo:letter-spacing="-0.004cm" style:font-size-asian="11pt" style:font-name-complex="Times New Roman" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="11pt" fo:letter-spacing="-0.004cm" fo:font-weight="bold" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:break-before="page"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="1"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="11pt" fo:letter-spacing="-0.004cm" fo:font-style="italic" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-name-complex="Times New Roman"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="11pt" fo:letter-spacing="-0.004cm" style:font-size-asian="11pt" style:font-name-complex="Times New Roman"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="11pt" fo:letter-spacing="-0.004cm" fo:language="ro" fo:country="RO" style:font-size-asian="11pt" style:font-name-complex="Times New Roman"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="11pt" fo:letter-spacing="-0.004cm" fo:font-weight="bold" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:font-variant="small-caps" style:font-name="Times New Roman" fo:font-size="11pt" fo:letter-spacing="-0.004cm" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Times New Roman"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="36" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.353cm" style:layout-grid-snap-to="true" style:layout-grid-snap-to-characters="true" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P6"><text:span text:style-name="T1">C</text:span><text:span text:style-name="T5">ONSTITUŢIA </text:span><text:span text:style-name="T1">C</text:span><text:span text:style-name="T5">ASEI </text:span><text:span text:style-name="T1">U</text:span><text:span text:style-name="T5">NIVERSALE A</text:span><text:span text:style-name="T1"> D</text:span><text:span text:style-name="T5">REPTĂŢII</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T1">C</text:span><text:span text:style-name="T5">ENTRUL</text:span><text:span text:style-name="T1"> M</text:span><text:span text:style-name="T5">ONDIAL</text:span><text:span text:style-name="T1"> B</text:span><text:span text:style-name="T5">AHÁ&apos;Í </text:span><text:span text:style-name="T1">H</text:span><text:span text:style-name="T5">AIFA</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Casa Universal</text:span><text:span text:style-name="T3">ă</text:span><text:span text:style-name="T2"> a Dreptăţii este instituţia supremă a unei Ordini Administrative a cărei trăsături proeminente, a cărei autoritate şi a cărei principii de acţiune sunt foarte clar enunţate în scrierile Sfinte a Credinţei Bahá&apos;í şi ale interpretărilor autorizate.</text:span></text:p>
+   <text:p text:style-name="P3">Ordinea Administrativă constă pe de‑o parte dintr‑o serie de consilii alese, universal, secundar şi local, investite cu putere legislativă, executivă şi judecătorească asupra comunităţii bahá&apos;í şi pe de alta de credincioşi eminenţi şi devotaţi numiţi cu un scop specific de protejare şi propagare a Credinţei lui Bahá&apos;u&apos;lláh sub îndrumarea corpului central al credinţei.</text:p>
+   <text:p text:style-name="P3">Ordinea Administrativă este nucleul şi modelul Ordinii Mondiale preconizate de Bahá&apos;u&apos;lláh. <text:s/>In decursul propagării divine a creşterii organice, instituţiile sale se vor extinde, numind ramuri auxiliare şi dezvoltând agenţii subordonate, multiplicând activităţile sale şi diversificând funcţiile sale în consonanţă cu principiile sale şi scopurile revelate de Bahá&apos;u&apos;lláh pentru progresul rasei umane.</text:p>
+   <text:p text:style-name="P4">I. <text:s text:c="4"/>A FI MEMBRU ÎN COMUNITATEA BAHA&apos;I</text:p>
+   <text:p text:style-name="P3">Comunitatea Bahá&apos;í constă din toate persoanele recunoscute de Casa Universală a Dreptăţii ca posedând calificările Credinţei Bahá&apos;í şi le pun în practică.</text:p>
+   <text:p text:style-name="P3">1.Pentru ca să poată fi ales şi să aleagă un Bahá&apos;í trebuie să fie peste 21 de ani.</text:p>
+   <text:p text:style-name="P3">2.Drepturile, privilegile şi îndatoririle sunt cele prescrise în scrierile lui Bahá&apos;u&apos;lláh, `Abdu&apos;l‑Bahá şi Shoghi Effendi şi prescrise de Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P4">II. ADUNARE SPIRITUAL LOCAL</text:p>
+   <text:p text:style-name="P3">Oriunde, în orice localitate, numărul bahá&apos;ílor rezidenţi aici, care au vârsta de 21 de ani, depăşesc numărul 9, aceştia pot în prima zi de Ridvan să se adune şi să aleagă un corp administrativ local de 9 membri cunoscut ca Adunare Spirituală a Bahá&apos;ílor din această localitate. <text:s/>Fiecare din astfel de Adunare Spirituală trebuie să fie realeasă anual în prima zi de Ridvan. <text:s/>Membri vor oficia pe o perioadă de un an sau până când succesorii lor vor fi realeşi. <text:s/>Când, undeva, numărul Bahá&apos;ílor dintr‑o localitate este exact 9, ei pot în prima zi de Ridvan să se constituie Adunarea Spirituală Locală, printr‑o declaraţie unită.</text:p>
+   <text:p text:style-name="P3">1.Puterile generale şi îndatoririle ASL‑ului sunt cele prescrise în scrierile lui Bahá&apos;u&apos;lláh , &apos;Abdu&apos;l‑Bahá şi Shoghi Effendi şi cele prescrise de Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">2.ASL‑ul poate exercita jurisdicţie deplină asupra întregii activităţi bahá&apos;í şi treburi din localitate, supus măsurilor Constituţiei Locale Bahá&apos;í.</text:p>
+   <text:p text:style-name="P3">3.Aria de jurisdicţie a ASL‑ului poate fi decis de ASN în concordanţă cu principiile depuse din fiecare ţară de Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P4">III. ASN</text:p>
+   <text:p text:style-name="P3">Oriunde s‑a decis de Casa Universală a Dreptăţii să se formeze, în orice ţară sau regiune, un ASN, membri cu drepturi de vot din comunitatea bahá&apos;í din acea ţară sau regiune pot în modul şi la timpul decis de Casa Universală a Dreptăţii să aleag ă delegaţii lor pentru Convenţie Naţională. <text:s/>Aceşti delegaţi pot la rândul lor după modul descris în Constituţia Naţională Bahá&apos;í, să aleagă un corp de 9 membri, cunoscut ca ASN al ţării sau regiunii respective. <text:s/>Membri pot deţine funcţia pe o perioadă de 1 an sau până la alegerea succesorilor.</text:p>
+   <text:p text:style-name="P3">1.Puterile generale şi îndatorirle ASN‑ului sunt cele prescrise în scrierile lui &apos;Abdu&apos;l‑Bahá, Shoghi Effendi şi cele prescrise de Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">2.ASN are jurisdicţie exclusivă şi autoritate asupra activităţilor şi treburilor credinţei bahá&apos;í din aria sa. <text:s/>Trebuie să depună eforturi să stimuleze, unifice şi coordoneze activităţile variate ale ASL‑urilor, bahá&apos;ílor individuale din aria ei şi să‑i asiste prin toate modalităţile posibile să promoveze unitatea omenirii. <text:s/>Trebuie în plus să reprezinte Comunitatea Naţională Bahá&apos;í în relaţiile cu celelalte comunităţi naţionale bahá&apos;í şi Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">3.Aria de jurisdicţie a ASN‑ului este cea definită de Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">4.Principala treabă a Convenţiei Naţionale poate fi consultaţie despre activitÎăţile bahá&apos;í, planuri şi policies şi alegerea membrilor ASN‑ului, aşa cum sunt depuse în Constituţia Naţionala Bahá&apos;í.</text:p>
+   <text:p text:style-name="P3">(a)Dacă într‑un an ASN‑ul consideră că este inpracticabil sau nu e înţelept să se ţină Convenţia Naţională, Adunarea respectivă trebuie să găsească căile şi modalităţile prin care alegerea anuală şi alte treburi <text:soft-page-break/>esenţiale ale Convenţiei să fie făcute.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3">(b)Locurile vacante din ASN se pot ocupa prin votul delegaţilor ce compun Convenţia care a ales Adunarea, balotajul putând fi făcut prin corespondenţă sau orice alt mod decis de ASN.</text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T4">IV. OBLIGAIILE MEMBRILOR ADUNRILOR SPIRITUALE</text:span></text:p>
+   <text:p text:style-name="P3">Printre cele mai importante şi sacre datorii ce revin celor care au fost chemaţi să iniţieze, direcţioneze şi coordoneze treburile Cauze lui Dumnezeu, ca membri ai Adunărilor Spirituale sunt: să câştige prin toate modurile ce le stau în putinţă confidenţa şi afecţiunea celor a căror privilegiu de a=i servi le‑a fost dat; să investigheze şi să informeze despre vederile, sentimentele şi convingerile personale ale celor a căror bunăstare este solemna obligaţie a lor; să purifice deliberările şi conduita generală a treburilor, de eul lor personal, suspiciunea secretoasă, atmosfera înăbuşitoare a afirmărilor dictatoriale şi de fiecare cuvânt sau faptă cu iz de partinitate, auto‑centralistă şi prejudiciu; şi în timp ce‑şi menţin dreptul sacru de‑a lua decizia finală, să invite la discuţie, ventileze doleanţe, sfaturile să fie binevenite, să adopte sensul de interdependenţă şi parteneriat, înţelegere şi confidenţă mutuală între ei şi oricare alt bahá&apos;í.</text:p>
+   <text:p text:style-name="P4">V. Casa Universală a Dreptăţii</text:p>
+   <text:p text:style-name="P3">Casa Universală a Dreptăţii este constituită din 9 bărbaţi care au fost aleşi dintre membri comunităţii bahá&apos;í după principiile următoare:</text:p>
+   <text:p text:style-name="P3">1.ALEGEREA</text:p>
+   <text:p text:style-name="P3">Membri Casa Universală a Dreptăţii pot fi aleşi prin vot secret de către membri ASN‑urilor la o întâlnire cunoscută ca Convenţia Bahá&apos;í Internaţională.</text:p>
+   <text:p text:style-name="P3">(a)O alegere a Casa Universală a Dreptăţii se va ţine la fiecare 5 ani, dacă nu se decide altfel de Casa Universală a Dreptăţii, şi cei aleşi continuă să oficieze până când succesorii lor vor fi aleşi şi prima întrunire a acestora va fi ţinută.</text:p>
+   <text:p text:style-name="P3">(b)Pentru a primi chemare la Convenţie fiecare ASN va supune Casa Universală a Dreptăţii lista numelor membrilor ei. <text:s/>Recunoaşterea şi întrunirea delegaţilor la Convenţia Internaţională.</text:p>
+   <text:p text:style-name="P3">(c)Principala sarcină a Convenţiei Internaţionale va fi să aleagă membri CID, să delibereze asupra treburilor Cauzei bahá&apos;í prin lume şi să facă recomandări şi sugestii către Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">(d)Sesiunea Convenţiei Internaţionale trebuie condusă în aşa manieră ca Casa Universală a Dreptăţii să poată din când în când să decidă.</text:p>
+   <text:p text:style-name="P3">(e)Casa Universală a Dreptăţii ar trebui să furnizeze o procedură prin care toţi delegaţii care nu pot fi prezenţi personal la Convenţia Internaţională să‑şi poată da voturile la alegerea membrilor Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">(f)Dacă la data alegerilor, Casa Universală a Dreptăţii ar considera că este inpracticabilă sau neînţeleaptă să se ţină Convenţia Internaţională ei trebuie să hotărească în ce mod pot avea loc alegerile.</text:p>
+   <text:p text:style-name="P3">(g)În ziua alegerilor voturile şi toţi alegătorii trebuie număraţi şi rezultatul certificat şi tellers numit în concordanţă cu instrucţiunile Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">(h)Dacă un membru ASN care a votat prin poştă, încetează să fie membru ASN între data când şi‑a trimis votul şi data numărării voturilor, votul său cu toate acestea rămâne valabil dacă nu s‑a ales în acest timp succesorul său şi votul acestui succesor a fost primit de cel care numără voturile.</text:p>
+   <text:p text:style-name="P3">(i)În caz de egelitate de voture, sau nu toate locurile din Casa Universală a Dreptăţii au fost ocupate după prima rundă, una sau mai multa alegeri adiţionale se vor ţine între persoanele cu număr egel de voturi până se aleg toţi membri. <text:s/>Alegătorii în cazul votării adiţionale pot fi membri de ASN.</text:p>
+   <text:p text:style-name="P3">2.LOCURI VACANTE</text:p>
+   <text:p text:style-name="P3">Un loc vacant printre membri Casa Universală a Dreptăţii se întâmplă după moartea unui membru sau în cazurile următoare:</text:p>
+   <text:p text:style-name="P3">(a)Dacă un membru Casa Universală a Dreptăţii comite un păcat înjositor, el poate fi demis ca să nu mai fie membru Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">(b)Casa Universală a Dreptăţii poate prin discreţia sa să declare că un membru, care după judecata Casa Universală a Dreptăţii‑ului nu este capabil să îndeplinească funcţiile şi să declare postul vacant.</text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/>(c)Un membru poate renunţa la condiţia lui de membru Casa Universală a Dreptăţii numai cu aprobarea Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">3. REALEGEREA</text:p>
+   <text:p text:style-name="P3">Dacă apare un loc vacant în Casa Universală a Dreptăţii, Casa Universală a Dreptăţii‑ul poate chema o realegere cât mai repede posibil dacă nu cumva această dată, în judecata Casa Universală a Dreptăţii, cade prea aproape de data alegerilor regulate a întergului corp de membri, în care caz Casa Universală a Dreptăţii poate, după propria discreţie, să amîne ocuparea postului vacant până la data alegerilor regulate. <text:s/>Dacă se ţine o realegere alegătorii vor fi membri ASN‑lor în exerciţiu, în timpul realegerilor.</text:p>
+   <text:p text:style-name="P3">4. ÎNTÂLNIRI</text:p>
+   <text:p text:style-name="P3">(a)După alegerea Casa Universală a Dreptăţii prima întâlnire poate fi chemată de membrul ales cu cel mai mare număr de voturi sau în absenţa lui sau altă incapacitate a acestuiu de membrul ales cu următorul număr de voturi; în cazul în care doi sau mai mulţi membri au acelaş număr de voturi, de către membrul selectat dintre aceştia. <text:s/>Ulterioare întâlniri pot fi chemate în modul în care decide Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">(b)Casa Universală a Dreptăţii nu are ofiţeri. <text:s/>Trebuie să facă ceea ce este necesar pentru a conduce întâlnirile şi trebuie să organizeze activităţile în aşa manieră încât să poată decide din timp în timp.</text:p>
+   <text:p text:style-name="P3">(c)Treburile Casa Universală a Dreptăţii trebuie să fie dirijate de toţi membri prin consultaţie, exceptând cazul când Casa Universală a Dreptăţii din timp în timp, face ca un număr necesar de membri mai puţin decât numărul total, pentru cazuri specifice.</text:p>
+   <text:p text:style-name="P3">5.SEMNTURI</text:p>
+   <text:p text:style-name="P3">Semnătura Casa Universală a Dreptăţii poate fi cuvintele &quot;The Universal House of Justice&quot; sau în persană „Baytu&apos;l‑Adl‑i‑A&apos;zam”, scris de mână de oricare dintre membri ei sub autorizarea Casa Universală a Dreptăţii, la care se adaugă în toate cazurile ştampila Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">6.REGISTRRI</text:p>
+   <text:p text:style-name="P3">Casa Universală a Dreptăţii trebuie să facă ca deciziile să fie înregistrate şi verificate în aşa fel ca din timp în timp să poată fi verificate la nevoie.</text:p>
+   <text:p text:style-name="P4">VI. ALEGERILE BAHA&apos;I</text:p>
+   <text:p text:style-name="P3">Pentru a menţine caracterul spiritual şi scopul alegerilor bahá&apos;í practicile de nominalizare sau selectare, sau orice altă procedură sau activitate în detrimentul caracterului sau scopului se va evita. <text:s/>O atmosferă liniştită şi de rugăciune se va menţine în timpul alegerii în aşa fel ca fiecare alegător va putea vota, pe nimeni altul decât cel pe care rugăciunea şi meditaţia o să‑i inspire.</text:p>
+   <text:p text:style-name="P3">1.Toate alegerile bahá&apos;í, exceptând alegerile pentru ofiţeri la ASL şi ASN şi comitete, se vor face în ???majoritate??? (plurality) şi în secret.</text:p>
+   <text:p text:style-name="P3">2.Alegerile ofiţerilor pentru Adunările Spirituale sau comitete se face prin majoritate de voturi şi secret.</text:p>
+   <text:p text:style-name="P3">3.In cazul voturilor egale, dacă nu toţi au fost determinaţi după prima alegere, una sau două alegeri de departajare vor fi ţinute, până ce toţi membri vor fi aleşi.</text:p>
+   <text:p text:style-name="P3">4.Drepturile şi îndatoririle alegătorului.......</text:p>
+   <text:p text:style-name="P4">VII. DREPTUL DE REVIZUIRE</text:p>
+   <text:p text:style-name="P3">Casa Universală a Dreptăţii are dreptul să revizuiască orice decizie sau acţiune a oricărei Adunări Spirituale, naţionale sau locale, şi să aprobe, modifice sau să întoarcă această decizie sau acţiune. <text:s/>Casa Universală a Dreptăţii are de asemenea dreptul să intervină în orice problemă în care Adunarea Spirituală are slăbiciunea de‑a lua o acţiune sau decizie, şi este la discreţia ăâ să ceară ca acţiunea să fie făcută, sau ea însăşi să acţioneze în mod direct.</text:p>
+   <text:p text:style-name="P4">VIII. APELURI</text:p>
+   <text:p text:style-name="P3">Dreptul de‑a face apelur există în anumite circumstanţe şi se poate exercita după procedurile următoare:</text:p>
+   <text:p text:style-name="P3">1.(a)Orice membru al comunităţii locale poate apela ala o decizie a ASL‑ului la ASN, care va determina dacă cade în jurisdicţia ei, sau să se facă referire înapoi la ASL pentru reconsiderare. <text:s/>Dacă un astfel de apel priveşte calitatea de a fi membru, a unei persoane oarecare din comunitatea bahá&apos;í, ASN‑ul este obligat să ia sub jurisdicţia sa şi să decidă asupra cazului.</text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/>(b)Orice bahá&apos;í poate apela pentru o decizie la ASN‑ului la Casa Universală a Dreptăţii, care va determina dacă problema aparţine jurisdicţiei sale sau o va lăsa la jurisdicţia ASN‑ului.</text:p>
+   <text:p text:style-name="P3">(c)Dacă orice diferende apar între două sau mai multe ASL‑uri şi dacă ASL‑urile nu sunt capabile să le rezolve, oricare dintre ele poate ridica problema la ASN, după care acesta va prelua jurisdicţia cazului. <text:s/>Dacă decizia cazului făcută de ASN este nesatisfăcătoare pentru careva dintre ASL‑uri sau dacă un ASL are motive să creadă că acţiunile ASN‑ului afectează bunăstarea şi unitatea acestui ASL, poate în oricare din aceste cazuri, după ce a încercat să rezolve diferenţele de opinie cu ASN‑ul, au dreptul să apeleze la Casa Universală a Dreptăţii care decide ia sub proprie jurisdicţie sau lasă sub jurisdicţia ASL‑ului.</text:p>
+   <text:p text:style-name="P3">3. Un apelant, instituţie sau individ, trebuie în primă instanţă să facă apel la adunarea a cărei decizie este în chestiune, chiar dacă se reconsideră cazul de adunare sau se supune unui corp superior. <text:s/>În al doilea caz Adunarea are obligaţia să supună apelul cu toate particularităţile problemei. <text:s/>Dacă Adunarea refuză să prezinte apelul sau omite s‑o facă într‑un timp util, apelantul poate duce cazul direct la o autoritate superioară.</text:p>
+   <text:p text:style-name="P4">IX. CORPUL CONSILIERILOR</text:p>
+   <text:p text:style-name="P3">Instituţia Corpul Consilierilor a fost conceput de Casa Universală a Dreptăţii pentru ca să se extindă în viitor cu funcţii specifice de protecţie şi propagare conferite de Mâinile Cauzei. <text:s/>Membri acestui corp sunt numiţi de Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">1.Termenii în timp de oficiere a consilierului, numărul consilierilor şi limitele zonei în care Corpul Consilierilor operează, trebuie să fie decise de Casa Universală a Dreptăţii.</text:p>
+   <text:p text:style-name="P3">2.Un consilier funcţionează numai în zona pentru care a fost numit, şi dacă‑şi mută rezidenţa în afara zonei în mod automat se renunţă la numirea lui.</text:p>
+   <text:p text:style-name="P3">3.Rangul şi îndatoririle specifice a consilierului face ca să fie neelectiv pentru servicii în corpul administrativ local şi naţional. <text:s/>Dacă este ales în Casa Universală a Dreptăţii îşi întrerupe funcţia de consilier.</text:p>
+   <text:p text:style-name="P4">X. <text:s/>CORPUL AUXILIAR</text:p>
+   <text:p text:style-name="P3">În fiecare zonă trebuie să fie două Corpuri Auxiliare, una pentru protecţie şi una pentru propagarea Cauzei, şi numărul membrilor este dată de Casa Universală a Dreptăţii. <text:s/>Membri Corpului Auxiliar servesc sub direcţia Corpului Continental al Consilierilor şi acţionează ca delegaţii, asistenţii şi sfătuitorii lor.</text:p>
+   <text:p text:style-name="P3">1.Membri Corpului Auxiliar sunt numiţi dintre credincioşii zonei respective de Corpul Continental al Consilierilor.</text:p>
+   <text:p text:style-name="P3">2.Fiecărui membru al Corpului Auxiliar i se alocă o zonă specifică în care să servească, dacă nu este trimis în mod specific de Consilier, nu vor funcţiona în afara ariei lor.</text:p>
+   <text:p text:style-name="P3">3.Un membru al Corpului Auxiliar este eligibil pentru orice funcţie, dar odată ales pentru un post administrativ de nivel naţional sau local, trebuie să se decidă să rămână membru al Corpului Auxiliar sau acceptă postul administrativ, pentru că nu poate face faţă la amândoua deodată. <text:s/>Dacă este ales în Casa Universală a Dreptăţii el încetează să mai fie membru al Corpului Auxiliar.</text:p>
+   <text:p text:style-name="P4">XI. AMENDAMENT</text:p>
+   <text:p text:style-name="P3">Această constituţie poate fi amendată de decizia Casei Universale a Dreptăţii dacă toţi membri sunt prezenţi.</text:p>
+   <text:p text:style-name="P3"/>
+  </office:text>
+ </office:body>
+</office:document>
