@@ -1,4 +1,4 @@
-var converter = new require('./converter');
+var converter = new require('converter');
 var path = require('path');
 
 //converter.excludeParagraphStyle = ["P39"];
