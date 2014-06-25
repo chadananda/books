@@ -1,0 +1,19 @@
+{
+  "name": "books",
+  "version": "0.0.0",
+  "description": "Custom script to convert .fodt documents into simple HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadananda/books.git"
+  },
+  "author": "Chad Jones <chadananda@gmail.com> (http://bahai-education.org/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadananda/books/issues"
+  },
+  "homepage": "https://github.com/chadananda/books"
+}
