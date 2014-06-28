@@ -1,12 +1,15 @@
-var converter = new require('converter');
+var Converter = require('converter');
 var path = require('path');
 var fs = require('fs');
 
-//converter.paragraphStyle = ["Normal_20__28_Web_29_", "P2", "P9"];
+var converter = new Converter();
+
 converter.footnoteStyle = ["Footnote_20_Symbol"];
 
-var dirInPath = "../fodt/Persian"; // where search fodt files
-var dirOutPath = "../dst/Persian"; // where put html files
+converter.languageProperties = converter.languageCode.Arabic;
+
+var dirInPath = "../fodt/Arabic"; // where search fodt files
+var dirOutPath = "../dst/Arabic"; // where put html files
 var templatePath = path.join(__dirname, 'doc/template.html'); // html template file path
 
 var files = fs.readdirSync(dirInPath);

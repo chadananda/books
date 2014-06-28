@@ -1,7 +1,9 @@
-var converter = new require('converter');
+var Converter = require('converter');
 var path = require('path');
 
-//converter.excludeParagraphStyle = ["P39"];
+var converter = new Converter();
+
+converter.languageProperties = converter.languageCode.English;
 converter.footnoteStyle = ["Footnote_20_Symbol"];
 
 var filePath = path.join(__dirname, "../fodt/English/Abd-A_Traveler's_Narrative.fodt");
